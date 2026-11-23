@@ -1,0 +1,23 @@
+{
+  "_howto": "Add an event: copy one block, change the values. date = YYYY-MM-DD. image = path to a photo inside assets/images/events/. Newest first is sorted automatically. Delete the sample blocks when you add real ones.",
+  "items": [
+    {
+      "date": "2026-11-21",
+      "title": "Free sugar & BP check camp",
+      "text": "Sample event — a free blood sugar and blood pressure check was held at the counter on Saturday morning. Replace this with your own event.",
+      "image": ""
+    },
+    {
+      "date": "2026-11-01",
+      "title": "New stock: winter medicines",
+      "text": "Sample event — cough syrups, vaporizers and nebulizer masks have arrived for the winter season. Replace this with your own update.",
+      "image": ""
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Jan Aushadhi Diwas",
+      "text": "Sample event — Jan Aushadhi Diwas was observed with a discount on the day's purchases. Replace this with your own event.",
+      "image": ""
+    }
+  ]
+}

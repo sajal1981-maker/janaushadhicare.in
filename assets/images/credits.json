@@ -1,0 +1,56 @@
+{
+ "pharmacist": {
+  "file": "pharmacist.jpg",
+  "title": "File:Assistant Pharmacist.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Assistant_Pharmacist.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "M Joko Apriyo Putro",
+  "w": 4825,
+  "h": 3228
+ },
+ "pharmacy-shelves": {
+  "file": "pharmacy-shelves.jpg",
+  "title": "File:Former pharmacy, shelves with medicines.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Former_pharmacy,_shelves_with_medicines.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Zalasem1",
+  "w": 4000,
+  "h": 3000
+ },
+ "medicine-boxes": {
+  "file": "medicine-boxes.jpg",
+  "title": "File:Pharmacy, Medicine Store, DrugsBank.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pharmacy,_Medicine_Store,_DrugsBank.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "ManzoorRph",
+  "w": 3024,
+  "h": 4032
+ },
+ "doctor-stethoscope": {
+  "file": "doctor-stethoscope.jpg",
+  "title": "File:Doctors stethoscope 1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Doctors_stethoscope_1.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Stethoscopes",
+  "w": 2304,
+  "h": 1761
+ },
+ "generic-pills": {
+  "file": "generic-pills.jpg",
+  "title": "File:A collection of generic medicine pills on a white background.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:A_collection_of_generic_medicine_pills_on_a_white_background.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Subhrajyoti07",
+  "w": 6012,
+  "h": 3996
+ },
+ "pharmacy-india": {
+  "file": "pharmacy-india.jpg",
+  "title": "File:India - Varanasi pharmacy - 0830.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:India_-_Varanasi_pharmacy_-_0830.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Jorge Royan",
+  "w": 3484,
+  "h": 2319
+ }
+}

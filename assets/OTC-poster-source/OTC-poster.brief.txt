@@ -1,0 +1,29 @@
+Design a single-page A4 print poster (portrait) for the OTC (over-the-counter) products section of an Indian pharmacy — a Pradhan Mantri Bhartiya Janaushadhi Kendra (government generic-medicine shop). It will be printed and put up at the counter, and shared on WhatsApp, so it must read well at a glance from a distance.
+
+CONTENT (all real details, use exactly):
+- Headline: "OTC Products — Now Available"
+- Sub-headline: "Health & wellness essentials at your neighbourhood Janaushadhi Kendra"
+- Shop name: "Pradhan Mantri Bhartiya Janaushadhi Kendra"
+- Address: "Punglia, Chakdaha Chowrasta, Chakdaha, Nadia — opposite Satish Chandra Memorial School, West Bengal"
+- Customer mobile: "7029699874"
+- Timings line: leave a fill-in blank for timings: "Open: [Shop timings]"
+
+A product grid of 12 OTC items as cards, each with the product name and one short line of what it is (no prices — prices change):
+1. Digital Thermometer — fast, flexible-tip readings
+2. Blood Pressure Monitor — automatic upper-arm BP checking
+3. Glucometer Kit — with test strips for home sugar checks
+4. Pulse Oximeter — fingertip SpO2 and pulse
+5. Nebulizer Machine — home respiratory therapy
+6. Surgical Face Masks — 3-ply, pack of 50
+7. Nitrile Examination Gloves — powder-free, pack of 100
+8. Antiseptic Liquid — for cuts, wounds and general hygiene
+9. Cotton Roll & Crepe Bandage — dressing and support
+10. Hand Sanitizer — 70% alcohol, 500 ml
+11. First Aid Kit — ready for the home
+12. Orthopaedic Support & Ice Gel Pack — sprains and joint pain
+
+Also a short line near the bottom: "Can't find something? Send your requirement on WhatsApp — we'll keep it ready." and "Generic medicines at up to 50–90% lower prices than branded equivalents" as a small trust line (this is the standard, widely published PMBJP claim; keep it small and factual).
+
+LOOK: clean, trustworthy, medical-pharmacy feel. Deep green and white as the main colours with a warm accent (saffron/amber) used sparingly for the headline highlight and the phone number. Simple flat line-icon style illustrations or simple shapes for the products are fine — no photographs, no fake brand logos, no invented certifications. Plenty of white space, clear hierarchy, large phone number at the bottom. The PMBJP logo must NOT be drawn; just the shop name in text.
+
+Everything must fit on ONE page with no overflow.
